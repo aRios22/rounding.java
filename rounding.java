@@ -1,5 +1,5 @@
 public class RoundingAlgorithm{
-
+     //I couldnt find a solution so i came up with this one, I hope it can help you.
      public static void main(String []args){
         //example
         long val = 22250;
